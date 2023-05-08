@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yuetian Wang</h1>
-<h3 align="center">A student developer from China</h3>
+<h3 align="center">A student researcher from China</h3>
 
 - 👀 I’m interested in Deep Learning, Computer Vision and Data Mining
 <!-- - 🌱 I’m currently learning ...
