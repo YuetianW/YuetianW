@@ -1,3 +1,9 @@
+<div align="center">
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Zhi+Mang+Xing&size=30&pause=1000&color=8635A5&center=true&vCenter=true&width=650&height=70&lines=Think+different.+Imagine+the+Possibilities!;%E4%B8%8D%E5%90%8C%E5%87%A1%E5%93%8D%EF%BC%8C%E6%97%A0%E9%99%90%E5%8F%AF%E8%83%BD%EF%BC%81" alt="Typing SVG" /></a>
+  <img width="700" src="https://s2.loli.net/2023/09/07/TtMnmSweNJQjGfb.jpg"/>
+  
+</div>
+
 <h1 align="center">Hi 👋, I'm Yuetian Wang</h1>
 <h3 align="center">A student researcher from China</h3>
 
