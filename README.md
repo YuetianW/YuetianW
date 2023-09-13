@@ -5,9 +5,10 @@
 </div>
 
 
-<h3 align="center">A student researcher from China</h3>
-
-- 👀 I’m interested in Deep Learning, Computer Vision and Data Mining
+- 😄 Hi there, this is Yuetian Wang. I'm currently a full-time M.S student in the School of EIC, Huazhong University of Sciences and Technology (HUST), Wuhan, China.
+- 🔭 My research interest includes Deep Learning, Computer Vision and Data Mining and other applications.
+- 👀 I am open to collaboration, feel free to contact me via Email!
+- 💞️ I like photography📸, reading📖, traveling🏞,  [ACG](<https://en.wikipedia.org/wiki/ACG_(subculture)>)📺 and sleeping in 🛌.
 <!-- - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... -->
@@ -23,3 +24,5 @@
 YuetianW/YuetianW is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+🎭 Leave a message to me? --> https://github.com/YuetianW/YuetianW/issues
