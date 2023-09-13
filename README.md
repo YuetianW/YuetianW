@@ -1,9 +1,9 @@
 <div align="center">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Zhi+Mang+Xing&size=30&pause=1000&color=8635A5&center=true&vCenter=true&width=650&height=70&lines=Think+different.+Imagine+the+Possibilities!;%E4%B8%8D%E5%90%8C%E5%87%A1%E5%93%8D%EF%BC%8C%E6%97%A0%E9%99%90%E5%8F%AF%E8%83%BD%EF%BC%81" alt="Typing SVG" /></a>
   <img width="700" src="https://s2.loli.net/2023/09/07/TtMnmSweNJQjGfb.jpg"/>
-  <h1 href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=500&size=40&pause=1000&color=F7F7F7&center=true&vCenter=true&repeat=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Yuetian+Wang" alt="Typing SVG" /></h1>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=500&size=40&pause=1000&color=F7F7F7&center=true&vCenter=true&repeat=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Yuetian+Wang" alt="Typing SVG" /></a>
 </div>
-
+---
 
 - 😄 Hi there, this is Yuetian Wang. I'm currently a full-time M.S student in the School of EIC, Huazhong University of Sciences and Technology (HUST), Wuhan, China.
 - 🔭 My research interest includes Deep Learning, Computer Vision and Data Mining and other applications.
